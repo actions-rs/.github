@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+Do the checklist before filing an issue:
+
+ * [ ] Is this related to the `actions-rs` Actions? If not, use GitHub Community forum to ask questions about Actions in a whole: https://github.community
+ * [ ] You've read the Contributing section about bugs reporting: https://github.com/actions-rs/.github/blob/master/CONTRIBUTING.md#reporting-bugs
+ * [ ] Is this something you can debug and fix? Send a pull request! Bug fixes and documentation fixes are welcome.
+
 ## Description
 
 A clear and concise description of what the bug is.
