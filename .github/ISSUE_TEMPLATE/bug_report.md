@@ -9,7 +9,8 @@ assignees: ''
 
 Do the checklist before filing an issue:
 
- * [ ] Is this related to the `actions-rs` Actions? If not, use GitHub Community forum to ask questions about Actions in a whole: https://github.community
+ * [ ] Is this related to the `actions-rs` Actions?
+       If you think it's a problem related to Github Actions in general, use GitHub Community forum instead: https://github.community
  * [ ] You've read the Contributing section about bugs reporting: https://github.com/actions-rs/.github/blob/master/CONTRIBUTING.md#reporting-bugs
  * [ ] Is this something you can debug and fix? Send a pull request! Bug fixes and documentation fixes are welcome.
 
@@ -17,9 +18,7 @@ Do the checklist before filing an issue:
 
 A clear and concise description of what the bug is.
 
-## Used environment
-
-### Workflow code
+## Workflow code
 
 ```yaml
 Paste that part of your workflow yaml file that causes the bug in here.
@@ -28,7 +27,7 @@ Alternatively you can remove that code block and insert direct link to your work
 Ensure that link points to the specific commit, and not just to the master branch.
 ```
  
-### Action output
+## Action output
 
 ```
 Copy and paste Action output logs in here.
